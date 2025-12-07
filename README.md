@@ -1,2 +1,3 @@
 # Python
-It
+It is python basic code
+
